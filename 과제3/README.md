@@ -1,4 +1,4 @@
-#[과제3]
+# [과제 3]
 ```java
 int dX = mouseX - x;
 int dY = mouseY - y;
