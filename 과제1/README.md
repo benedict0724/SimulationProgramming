@@ -14,7 +14,7 @@ for(int i=0;i<100;i++) balls[i].update();
 
 ## 지시사항 2
 ```java
-    c = color(random(255), random(255), random(255));
+c = color(random(255), random(255), random(255));
 ```
 로 color 변수를 만들고 fill 함수를 통해 색을 채웠다.
 
