@@ -1,0 +1,14 @@
+```java
+int dX = mouseX - x;
+int dY = mouseY - y;
+
+if(dX*dX > dY*dY) {
+  if(dX > x) x++;
+  else x--;
+} else {
+  if(dY > y) y++;
+  else y--;
+}
+```
+
+Walker 코드에서 50% 확률로 위의 코드가 작동하게
